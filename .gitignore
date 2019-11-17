@@ -1,0 +1,23 @@
+# Optional npm cache directory
+.npm
+
+# Optional REPL history
+.node_repl_history
+
+node_modules
+
+package-lock.json
+
+yarn-error.log
+
+.node-*
+.env
+.nyc_output
+
+.vscode
+
+.idea
+
+dist/*
+
+
